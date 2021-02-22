@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Analyzer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Analyzer_jar/Analyzer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

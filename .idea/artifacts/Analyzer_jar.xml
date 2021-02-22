@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Analyzer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Analyzer_jar</output-path>
+    <root id="archive" name="Analyzer.jar">
+      <element id="module-output" name="Analyzer" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Dependencies/jna-4.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Dependencies/slf4j-api-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Dependencies/pcap4j-core-1.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Dependencies/sqlite-jdbc-3.21.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Dependencies/pcap4j-packetfactory-static-1.7.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
